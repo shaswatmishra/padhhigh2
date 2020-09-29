@@ -4776,7 +4776,7 @@ footer .footer {
 }
 
 .form-container {
-    max-width: 700px;
+    max-width: 950px;
     width: 100%;
     margin: 0 auto;
     background-color: #fff;
@@ -4787,10 +4787,11 @@ footer .footer {
 }
 
 .form-container .form-header {
-    font-size: 1.375em;
+    font-size: 2em;
     margin-bottom: 50px;
     text-align: center;
-    font-weight: 700
+    font-weight: 700;
+    color: #FFB100;
 }
 
 .form-container .form-header span {
