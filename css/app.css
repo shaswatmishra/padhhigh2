@@ -45,7 +45,7 @@
 
 [class*=" bf--"],
 [class^=bf--] {
-    font-family: basic-first !important;
+  
     speak: never;
     font-style: normal;
     font-weight: 400;
@@ -2804,7 +2804,7 @@ hr {
 }
 
 pre {
-    font-family: monospace, monospace;
+    
     font-size: 1em
 }
 
@@ -2827,7 +2827,7 @@ strong {
 code,
 kbd,
 samp {
-    font-family: monospace, monospace;
+    
     font-size: 1em
 }
 
@@ -5319,7 +5319,7 @@ select {
 
 .faqs--scrolling-accordion h3:after {
     content: "\EA0A";
-    font-family: basic-first;
+    
     color: #feb311
 }
 
